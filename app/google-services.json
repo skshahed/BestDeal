@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1047810935458",
+    "firebase_url": "https://our-projects.firebaseio.com",
+    "project_id": "our-projects",
+    "storage_bucket": "our-projects.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047810935458:android:f6c854fd4295382e",
+        "android_client_info": {
+          "package_name": "com.example.forever.bestdeal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047810935458-pvov4v6fma2eciglpjvnjbvdq9tl86dc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs5M5cOuEMEUF_5kMEA5Z-unt-tjgVumo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

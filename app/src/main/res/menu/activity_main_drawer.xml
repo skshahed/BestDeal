@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+
+            android:id="@+id/nav_product_home"
+            android:icon="@drawable/ic_home"
+            android:title="Home" />
+
+        <item
+            android:id="@+id/nav_product_post"
+            android:icon="@drawable/ic_post_products"
+            android:title="Post Your Advertise" />
+        <item
+            android:id="@+id/nav_my_product"
+            android:icon="@drawable/ic_my_post"
+            android:title="My Posted Products" />
+        <item
+            android:id="@+id/nav_my_profile"
+            android:icon="@drawable/ic_profile"
+            android:title="My Profile" />
+        <item
+            android:id="@+id/nav_notification"
+            android:icon="@drawable/ic_notifications"
+            android:title="Notifications" />
+        <item
+            android:id="@+id/nav_categories"
+            android:icon="@drawable/ic_categories"
+            android:title="Categories" />
+        <item
+            android:id="@+id/nav_my_favorite"
+            android:icon="@drawable/ic_favorite"
+            android:title="My Favorite" />
+    </group>
+
+  <!--  <item android:title="Category">
+        <menu>
+            <item
+                android:id="@+id/nav_electronics"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Electronics" />
+            <item
+                android:id="@+id/nav_education"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Education" />
+            <item
+                android:id="@+id/nav_property"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Property" />
+
+            <item
+                android:id="@+id/nav_sports"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Sports" />
+
+            <item
+                android:id="@+id/nav_vehicles"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Vehicles" />
+
+            <item
+                android:id="@+id/nav_pets"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Pets &amp; Animals" />
+
+            <item
+                android:id="@+id/nav_others"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Others" />
+
+        </menu>
+    </item>-->
+
+</menu>
